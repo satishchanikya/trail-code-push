@@ -9,7 +9,9 @@ print("hello world....!")
 # git add . 
 # git status --> to see the comitted file in green color
 # git commit -m 'first trail code'
+
 print("this is the trail for the git")
 
-    
+''' After you need to change the repo, then your command in the terminal is 
+    git push path for the new repository.'''    
     
