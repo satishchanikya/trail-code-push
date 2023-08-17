@@ -9,6 +9,7 @@ print("hello world....!")
 # git add . 
 # git status --> to see the comitted file in green color
 # git commit -m 'first trail code'
+print("this is the trail for the git")
 
     
     
